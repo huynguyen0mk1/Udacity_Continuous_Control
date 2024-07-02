@@ -29,4 +29,4 @@ To set up your python environment to run the code in this repository, follow the
 ## Instructions
 To run the code, follow the Getting started instructions, git clone this repository and go to the folder repository. Then just type:
 
-python Test.py
+python Test.ipynb
